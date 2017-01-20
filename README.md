@@ -1,7 +1,8 @@
 # very-simple
 
+fork from [@lotabout's very-simple](https://github.com/lotabout/very-simple)
 [Demo](http://lotabout.github.io/very-simple/)
-
+----
 A theme that aimed to be very simple, creatd by [lotabout](https://github.com/lotabout)
 
 ## Installation
